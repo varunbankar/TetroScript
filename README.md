@@ -1,4 +1,4 @@
 
-# Tetris Lang
+# TetroScript
 
-A domain specific programming laguage to create Tetris game according to your specifications.
+A programming language to create custom Tetris Game, developed as part of Compiler Construction course at BITS Goa.
